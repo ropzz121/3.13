@@ -1,4 +1,4 @@
-# 章鱼哥的自我介绍
+# ropz的自我介绍
 
 <img src="https://github.com/ropzz121/3.13/blob/main/images/Ropz_at_BLAST_Bounty_Spring_2025.jpg" width="200" alt="车主本人">
 
